@@ -1,3 +1,4 @@
+Looks like this will be called an Assumptions.md file.
 ## quick-vue-research
 <br/>This is documenting the quick glance at the project writing the info so that I know the things learned.
 <br/>This project will also contain the plans for implementing the project.
@@ -17,7 +18,10 @@ notable packages: vuedraggable, vue-notification, vee-validate, [underscore](htt
                 // e.g. via import(/* webpackMode: "weak" */ './file.js')
                 allowAsyncCycles : false,
 ```
-7) 
+7) src/views/Symbols.vue ... has import API from '../api/IEX';
+8) src/api/IEX.js ... api tell me that data! ... I assume fetched via axios.
+9) curl https://cloud.iexapis.com/stable/stock/market/collection/tag?collectionName=Airlines&token=sk_ab3b92699bb844e584c7108ffb977047 ... looks good 🆗
+10) 
 
 https://vuejs.org/v2/cookbook/adding-instance-properties.html
 -- begin link notes
@@ -90,3 +94,6 @@ Vue cookbook:
 <br/>[scope your slots? i.e. google maps](https://vuejs.org/v2/cookbook/practical-use-of-scoped-slots.html)
 
 ## Time check, just hit the 1hour mark.
+
+Investors Exchange (IEX) is a stock exchange based in the United States.
+
