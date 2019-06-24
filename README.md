@@ -78,7 +78,6 @@ So it would probably be something like this:
 <component v-bind:is="headerComponent"></component>
 ```
 
-```
 Vue cookbook:
 (discussed earlier): [vue instance properties](https://vuejs.org/v2/cookbook/adding-instance-properties.html)
 [form validation](https://vuejs.org/v2/cookbook/form-validation.html)
