@@ -79,14 +79,14 @@ So it would probably be something like this:
 ```
 
 Vue cookbook:
-(discussed earlier): [vue instance properties](https://vuejs.org/v2/cookbook/adding-instance-properties.html)
-[form validation](https://vuejs.org/v2/cookbook/form-validation.html)
-[relating to svg's](https://vuejs.org/v2/cookbook/editable-svg-icons.html)
-[relating to unit tests](https://vuejs.org/v2/cookbook/unit-testing-vue-components.html)
-[vue directive for custom code](https://vuejs.org/v2/cookbook/creating-custom-scroll-directives.html)
-[lifecycle methods for memory leaks](https://vuejs.org/v2/cookbook/avoiding-memory-leaks.html)
-[localStorage.setItem('cats', parsed)](https://vuejs.org/v2/cookbook/client-side-storage.html)
-[publish those components, yo 😎](https://vuejs.org/v2/cookbook/packaging-sfc-for-npm.html)
-[scope your slots? i.e. google maps](https://vuejs.org/v2/cookbook/practical-use-of-scoped-slots.html)
+<br/>(discussed earlier): [vue instance properties](https://vuejs.org/v2/cookbook/adding-instance-properties.html)
+<br/>[form validation](https://vuejs.org/v2/cookbook/form-validation.html)
+<br/>[relating to svg's](https://vuejs.org/v2/cookbook/editable-svg-icons.html)
+<br/>[relating to unit tests](https://vuejs.org/v2/cookbook/unit-testing-vue-components.html)
+<br/>[vue directive for custom code](https://vuejs.org/v2/cookbook/creating-custom-scroll-directives.html)
+<br/>[lifecycle methods for memory leaks](https://vuejs.org/v2/cookbook/avoiding-memory-leaks.html)
+<br/>[localStorage.setItem('cats', parsed)](https://vuejs.org/v2/cookbook/client-side-storage.html)
+<br/>[publish those components, yo 😎](https://vuejs.org/v2/cookbook/packaging-sfc-for-npm.html)
+<br/>[scope your slots? i.e. google maps](https://vuejs.org/v2/cookbook/practical-use-of-scoped-slots.html)
 
 ## Time check, just hit the 1hour mark.
