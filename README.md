@@ -1,4 +1,3 @@
-Looks like this will be called an Assumptions.md file.
 ## quick-vue-research
 <br/>This is documenting the quick glance at the project writing the info so that I know the things learned.
 <br/>This project will also contain the plans for implementing the project.
